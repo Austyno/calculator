@@ -1,2 +1,2 @@
 # calculator
-A simple calculator written in C with an FLTK GUi
+A simple calculator written in C with an FLTK GUI
